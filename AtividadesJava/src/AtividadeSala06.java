@@ -18,7 +18,5 @@ public class AtividadeSala06 {
         System.out.println("verdadeiro || falso && verdadeiro = " + teste);
         teste = verdadeiro && !(falso && falso);
         System.out.println("verdadeiro && !(falso && falso) = " + teste);
-        
-
     }
 }

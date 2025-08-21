@@ -7,6 +7,5 @@ public class AtividadesSala05 {
         temp += "" + letra + inicial;
         System.out.println(temp);
         System.out.println(temp + texto);
-
     }
 }
