@@ -16,10 +16,11 @@ public class AtividadeSala07 {
                 System.out.println("A opção 'S' foi escolhida");
                 break;
                 case 'N':
-                    System.out.println("A opção  'S' foi escolhida ");
+                    System.out.println("A opção  'N' foi escolhida ");
                     break;
-                    case 'A':
-
+                    default:
+                        System.out.println("A opção 'S' foi escolhida ");
+                        break;
 
         }
     }
