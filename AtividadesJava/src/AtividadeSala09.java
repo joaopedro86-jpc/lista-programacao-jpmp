@@ -13,18 +13,15 @@ public class AtividadeSala09 {
 
         } while (numero < 10);
         boolean sair = false;
-        do{
+        do {
             System.out.println("Ecolha uma das opções abaixo");
-            System.out.println("1- cadastraer novo usuario"
-                               "2- Editar usuario \n +
-                               "3- Excluir usuario \n +
-                    "0 sair \n"
-            );
+            System.out.println("1- cadastraer novo usuario");
             int opcao = leia.nextInt();
-            switch(opcao){
-            case 0:}
-            sair  = true;
-        }
+            switch (opcao)
+                {
+                case 1:
+                }
+            }while (!sair);
 
     }
 }
