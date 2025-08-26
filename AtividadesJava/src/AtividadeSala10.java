@@ -12,6 +12,8 @@ public class AtividadeSala10 {
             while(contador <= 10){
                 System.out.println(numero + "*" + contador + " = " + (numero * contador));
                 contador++;
+                
+                
 
 
         }
