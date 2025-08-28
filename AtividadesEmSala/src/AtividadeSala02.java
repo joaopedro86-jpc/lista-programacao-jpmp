@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class AtividadeSala02 {
     public static void main(String[] args) {
         String nome = "João Pedro";

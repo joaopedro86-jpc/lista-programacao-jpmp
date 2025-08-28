@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class AtividadesSala14 {
     public static int soma (int x, int y) {
         return x + y;

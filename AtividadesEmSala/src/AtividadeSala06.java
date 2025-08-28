@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class AtividadeSala06 {
     public static void main(String[] args) {
         int a = 5, b = -5, x = 30, y = 9;

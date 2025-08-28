@@ -7,7 +7,7 @@ public class AtividadeSala16 {
             return fatorial(valor - 1);
     }
     public static void main(String[] args) {
-        
+
 
 
     }
