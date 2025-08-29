@@ -3,7 +3,8 @@ public class Atividade6 {
         int idade = 17;
         final int numeroMes = 12;
         System.out.println("Sua idade em meses é: " + numeroMes);
-        
+        System.out.println("Sua idade é: " + idade);
+
 
 
     }
