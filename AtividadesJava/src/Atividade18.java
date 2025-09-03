@@ -5,7 +5,7 @@ public class Atividade18 {
         int p = input.nextInt();
         int q = input.nextInt();
         if (p > q){
-            System.out.println("P maior");
+            System.out.println("Ps maior");
 
         }
         if (p < q){
