@@ -1,23 +1,18 @@
 import java.util.Scanner;
-public class Atividade41 {
+public class Atividade44 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int [] n;
-        n = new int[5];
+        int[] n = new int[5];
 
-
-
-
+        System.out.println("Digite as notas da turma");
         for (int i = 0; i < n.length; i++) {
-            System.out.println("Digite os numeros que vão ser armazenados no vetor");
             n[i] = scanner.nextInt();
         }
-
-
-
+        int medias =0;
         for (int i = 0; i < n.length; i++) {
-            System.out.println("Vetor"+i+"="+n[i]);
+            medias += n[i];
         }
+        medias = medias / n.length;
+        System.out.println("Medias da turma: " + medias);
     }
 }
-
